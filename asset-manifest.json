@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amazon-clone-with-ecommerce/static/css/main.41691104.chunk.css",
+    "main.js": "/amazon-clone-with-ecommerce/static/js/main.d594d324.chunk.js",
+    "main.js.map": "/amazon-clone-with-ecommerce/static/js/main.d594d324.chunk.js.map",
+    "runtime-main.js": "/amazon-clone-with-ecommerce/static/js/runtime-main.cf2c5dae.js",
+    "runtime-main.js.map": "/amazon-clone-with-ecommerce/static/js/runtime-main.cf2c5dae.js.map",
+    "static/js/2.7f315e36.chunk.js": "/amazon-clone-with-ecommerce/static/js/2.7f315e36.chunk.js",
+    "static/js/2.7f315e36.chunk.js.map": "/amazon-clone-with-ecommerce/static/js/2.7f315e36.chunk.js.map",
+    "index.html": "/amazon-clone-with-ecommerce/index.html",
+    "static/css/main.41691104.chunk.css.map": "/amazon-clone-with-ecommerce/static/css/main.41691104.chunk.css.map",
+    "static/js/2.7f315e36.chunk.js.LICENSE.txt": "/amazon-clone-with-ecommerce/static/js/2.7f315e36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf2c5dae.js",
+    "static/js/2.7f315e36.chunk.js",
+    "static/css/main.41691104.chunk.css",
+    "static/js/main.d594d324.chunk.js"
+  ]
+}
